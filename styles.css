@@ -2,6 +2,10 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:darkslategrey;
 }
+h1{
+    color: darkorange;
+    font-size: 50px;
+}
 .clock{
     position: absolute;
     top: 50%;
